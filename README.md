@@ -34,6 +34,7 @@ Busco uma oportunidade de estágio na área de **Desenvolvimento Web**, com o ob
   * Sistemas de gerenciamento de escritório
   * Noções de design responsivo
   * Lógica de programação
+  * Metodologia Ágil
 
 ---
 
