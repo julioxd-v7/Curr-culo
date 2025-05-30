@@ -3,7 +3,7 @@
 📍 Paulista – PE
 📞 (81) 9 9992-7862
 📧 [julyoviny@gmail.com](mailto:julyoviny@gmail.com)
-🐱 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+🐱 GitHub: [github.com/seu-usuario]((https://github.com/julioxd-v7))
 🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(opcional)*
 
 ---
@@ -35,12 +35,10 @@ Busco uma oportunidade de estágio na área de **Desenvolvimento Web**, com o ob
   * Noções de design responsivo
   * Lógica de programação
   * Metodologia Ágil
+  * Figma
+  * Canva
 
 ---
-
-## 🚀 Projetos Pessoais / Acadêmicos
-
-> *Aqui você pode listar os links reais dos seus repositórios.*
 
 ### 📌 Página Pessoal Responsiva
 
