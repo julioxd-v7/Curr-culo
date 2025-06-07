@@ -24,7 +24,7 @@ Busco uma oportunidade de estágio na área de **Desenvolvimento Web**, com o ob
 
 ## 💻 Habilidades Técnicas
 
-* **Linguagens:** HTML5, CSS3, JavaScript (básico), Python (básico)
+* **Linguagens:** HTML5, CSS3, JavaScript , Python
 * **Ferramentas:** Git (clone, commit, push, pull), DevTools, cURL
 * **Outros:**
 
