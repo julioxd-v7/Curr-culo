@@ -1,0 +1,12 @@
+import pyautogui
+pyautogui.press("win")
+pyautogui.sleep(1)
+pyautogui.write("chro")
+pyautogui.sleep(1)
+pyautogui.press("enter")
+pyautogui.sleep(1)
+pyautogui.write("spotify.com")
+pyautogui.sleep(1)
+pyautogui.press("enter")
+pyautogui.sleep(8)
+pyautogui.click(x=484, y=977)
